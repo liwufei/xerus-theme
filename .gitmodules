@@ -1,0 +1,3 @@
+[submodule "themes/xerus"]
+	path = themes/xerus
+	url = https://github.com/hugotheme/xerus

@@ -1,0 +1,4 @@
+baseURL = 'https://xerus-theme.netlify.app'
+languageCode = 'en-US'
+title = 'Xerus theme'
+theme = 'xerus'
